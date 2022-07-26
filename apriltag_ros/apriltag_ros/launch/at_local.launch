@@ -1,0 +1,3 @@
+<launch>
+    <node name="at_local" pkg="apriltag_ros" type="at_local" output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+    <node name="stairs" pkg="apriltag_ros" type="stairs" output="screen"/>
+</launch>
